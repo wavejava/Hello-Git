@@ -1,3 +1,5 @@
+2014.5.28 new add 
+
 add new log file on master 
 
 then push to origin . 
